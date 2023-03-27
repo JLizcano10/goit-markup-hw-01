@@ -1,0 +1,55 @@
+x-Cree el repositorio goit-markup-hw-01.
+
+x-Realice un marcado HTML para el diseño de página la tarea de casa #1,(figma) sin estilo CSS.
+
+TODO:-Configure las GitHub Pages y agregue un enlace a la página en vivo en el encabezado del repositorio de GitHub.
+
+***Los criterios de aceptación de trabajo por parte del tutor
+El proyecto****
+
+x-«A1» El archivo HTML principal se llama index.html.
+
+x-«A2» En la raíz del proyecto, hay una carpeta llamada images con imágenes.
+
+x-«A3» No hay letras mayúsculas, espacios y transliteración en los nombres de los archivos, solo las letras y palabras en inglés.
+
+x-«A4» El código fuente está formateado con Prettier.
+
+x-«A5» Todas las imágenes y el contenido del texto se toman del diseño.
+
+x-«A6» Todas las imágenes rasterizadas se optimizan utilizando squoosh.
+
+x-«A7» El código está escrito siguiendo la guía.
+
+***El marcado***
+
+x-«B1» El diseño de la página de Studio está en el archivo index.html.
+
+x-«B2» El marcado HTML se realiza para todos los elementos de diseño.
+
+x-«B3» Las etiquetas se utilizan según su sentido semántico.
+
+x-«B4» El HTML puede ser validado usando validator sin errores.
+
+x-«B5» El marcado tiene etiquetas para resaltar la estructura principal de la página: <header>, <main> y <footer>.
+
+x-«B6» El logo en el encabezado y pie de página es un enlace con texto, no una imagen. 
+x-«B7» La etiqueta <nav> se usa solo una vez, en el encabezado de la página.
+
+x-«B8» Los contactos en el encabezado (correo y teléfono) están fuera de la etiqueta <nav>.
+
+x-«B9» La etiqueta <h1> se usa solo una vez en la página.
+
+x-«B10» El elemento con texto "Solicitar un servicio" es botón con type="button".
+
+x-«B11» Los encabezados de sección están marcados con la etiqueta <h2>. nombres personas???
+
+x-«B12» Las etiquetas <img> > tienen los atributos de dimensión, al menos width.
+
+x-«B13» Las etiquetas <img> tienen el atributo alt, que contiene una breve descripción de lo que se muestra en la imagen.
+
+x-«B14» Las imágenes se exportan desde el diseño en formato jpg.
+
+x-«B15» Los grupos de elementos del mismo tipo están en las listas <ul>.
+
+x-«B16» La etiqueta <address> solo se usa en el pie de página.
